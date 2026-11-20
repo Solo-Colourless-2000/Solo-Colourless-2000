@@ -14,14 +14,6 @@ This account is mostly a place for learning projects and experiments.
 
 I usually work on Linux or Windows and prefer VScode and Neovim, which depends on my mood.
 
-## Repositories
-
-- [Port Scanner](https://github.com/Solo-Colourless-2000/port-scanner) — An ongoing study project based on a book and its official sample code.
-- [Small Python Projects](https://github.com/Solo-Colourless-2000/random-small-python-projects) — Beginner exercises and study materials created with AI assistance.
-- [HTML, CSS, and JavaScript Exercises](https://github.com/Solo-Colourless-2000/Projects-with-html-css-javascript) — Small web projects for practice.
-- [Chat App Project](https://github.com/Solo-Colourless-2000/chat-app-project) — A web development project based on an online course.
-- [TOTAL RECALL](https://github.com/Solo-Colourless-2000/vibe-coded-flashcard-tool) — A local flashcard tool entirely built with AI.
-
 ## Certifications
 
 - CompTIA Security+
